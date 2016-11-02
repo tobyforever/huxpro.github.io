@@ -1,5 +1,5 @@
 # Site settings
-title: Lin的博客
+title: 禅 Life
 SEOTitle: 林的博客 | Lin Blog
 header-img: img/home-bg.jpg
 email: tobyforever.lin@gmail.com
@@ -8,6 +8,7 @@ keyword: "林, tobyforever林, tobyforever, toby, @tobyforever, 林的博客, Li
 url: "http://linshihang.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
+timezone: CN
 
 
 # SNS settings
