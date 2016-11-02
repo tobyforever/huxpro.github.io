@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: tobyforever.lin@gmail.com
 description: "关于软件与生活的杂谈 | 林，App & Life Enthusiast | 这里是 @tobyforever 林 的个人博客，to be a better me"
 keyword: "林, tobyforever林, tobyforever, toby, @tobyforever, 林的博客, Lin Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品"
-url: "http://linshihang.com"              # your host, for absolute URL
+url: "https://blog.linshihang.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 timezone: CN
