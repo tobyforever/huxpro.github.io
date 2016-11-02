@@ -31,3 +31,6 @@ PS:再简单的东西还是会有坑:
 * gem install gekyll要翻墙
 * [timezone没设置导致日志不显示](https://github.com/Huxpro/huxpro.github.io/issues/68)
 * [控制台报错 jekyll 3.3语法升级](https://github.com/Huxpro/huxpro.github.io/issues/105)
+
+
+PPS:按教程使用了cloudflare的免费https。文章在[这里](https://rck.ms/jekyll-github-pages-custom-domain-gandi-https-ssl-cloudflare/)。不过cloudflare的https选择flexible时只保证用户到cdn的链接是https的，不保证cdn到github的链接是https的，所以有可能有[安全问题](https://konklone.com/post/github-pages-now-sorta-supports-https-so-use-it)。
