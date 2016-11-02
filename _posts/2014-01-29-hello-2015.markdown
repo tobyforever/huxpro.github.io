@@ -3,7 +3,7 @@ layout:     post
 title:      "新"
 subtitle:   " \"Hello Blog\""
 date:       2016-11-02 01:00:00
-author:     "Hux"
+author:     "Lin"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
@@ -17,15 +17,14 @@ tags:
 之前用wordpress和ghost陆陆续续写过一些，终究太折腾，而且对代码高亮不好，个人VPS在国外访问又经常抽风，终于回到了jekyll和github这对好基友的组合。
 
 初期目标：
+
 * 练习markdown。
 * 演示Github
 
 进阶目标：
+
 * 了解字体和排版，这是一门学问 [Type is Beautiful](http://www.typeisbeautiful.com/)
 * 学习写文章和找图片。毕竟现在都流行material design的时代了，我们的文章图片也要有[shock and awe](https://en.wikipedia.org/wiki/Shock_and_awe)的feel嘛！
-
-
-
 
 PS:再简单的东西还是会有坑:
 
